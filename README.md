@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RashidKamaev
-- 👀 I’m interested in Python, Kotlin 
+- 👀 I’m interested in Kotlin 
 - 🌱 I’m currently learning Tolyatti Social Pedagogical College(TSPC)
 - 📫 How to reach me t.me/wi11iam_aft0n
 
